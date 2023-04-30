@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
 	},
 	header: {
 		alignItems: 'center',
-		backgroundColor: '#C5D2EF',
+		backgroundColor: '#87CEEB',
 		height: 80,
 		justifyContent: 'center',
 	},
